@@ -23,3 +23,10 @@ To use this website, you only need to follow these steps:
    - Otherwise, it will be live at `<your_github_username>.github.io/<your_repository_name>`.
 6. **(Optional)** If you prefer not to use GitHub Pages, you can deploy your site from [Cloudflare Pages](https://www.cloudflare.com/), which is also a great option. (There are other alternatives as well, such as [vercel.com](https://vercel.com/))
 7. If you would like to give your website a custom domain, you can buy one from Aliyun, Cloudflare, or other registrars, and then configure the DNS settings either in GitHub Pages or Cloudflare Pages. Everything is possible!
+
+
+Questions, suggestions and bug reports can be made through the [issues system](https://github.com/ammelsayed/personal_website_template/issues). After checking that the issue is not already being addressed, you can [open an issue](https://github.com/ammelsayed/personal_website_template/issues/new). Note that you will have to register first.
+
+Users willing to participate are encouraged to fork this Git repository and to submit pull requests for improvements and bug fixes.
+
+
