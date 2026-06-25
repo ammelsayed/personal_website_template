@@ -17,4 +17,6 @@ To use this website, you only have to do the followings:
  4. After finishing, you can:
     - Push directly to the main brach
     - Or you can create a new bracnh and upload to it first. Then you will have to merge them togther. I remmomed this option to keep track of all the updates you have made
- 5. The one final step is to go to Settings page, click on Pages, Choise Configure Github Pages with Jekly. If you chosen the respostrory name to be '<your_gitgub_username>.github.io', then your website will be life at '<your_gitgub_username>.github.io'. Otherwise it will life at 
+ 5. The one final step is to go to Settings page, click on Pages, Choise Configure Github Pages with Jekly. If you chosen the respostrory name to be '<your_gitgub_username>.github.io', then your website will be life at '<your_gitgub_username>.github.io'. Otherwise it will life '<your_gitgub_username>.github.io/<your_resorpotery_name>'.
+ 6. Optionally, if you do not like the Github pages option you can deploy your page from Cloudflare, which is also a nice option. (There are also some other options to include)
+ 7. If you would like to give your website a unique weblink, you can buy a new name from Aliyun/Cloudflare or others, then confgiure it in either Github pages or Clouldflare pages. Everything is possible !
