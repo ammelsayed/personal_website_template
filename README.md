@@ -12,7 +12,7 @@ This project aims to provide an easy‑to‑use, scalable, and well‑structured
 
 To use this website, you only need to follow these steps:
 
-1. [**Fork this repository**](https://github.com/login?return_to=%2Fammelsayed%2Fpersonal_website_template) into your own GitHub account.
+1. [**Fork this repository**](https://github.com/ammelsayed/personal_website_template/fork) into your own GitHub account.
 2. I suggest you rename this new repository to `<your_github_username>.github.io`—this ensures your site goes live at the root domain (as explained in Step 5).
 3. Clone your forked repository to your local machine and edit it using an advanced IDE like VS Code (with live preview extensions, if desired).
 4. After finishing your changes, you can:
