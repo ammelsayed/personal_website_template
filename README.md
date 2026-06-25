@@ -21,5 +21,5 @@ To use this website, you only need to follow these steps:
 5. **Final deployment step:** go to your repository **Settings**, click on the **Pages** tab, and under the "Build and deployment" section, select your source branch (e.g., `main`) and the `/ (root)` folder, then click **Save**. GitHub Pages will automatically build your site using Jekyll.  
    - If you named your repository `<your_github_username>.github.io`, your website will be live at `<your_github_username>.github.io`.  
    - Otherwise, it will be live at `<your_github_username>.github.io/<your_repository_name>`.
-6. **(Optional)** If you prefer not to use GitHub Pages, you can deploy your site from Cloudflare Pages—which is also a great option. (There are other alternatives as well.)
+6. **(Optional)** If you prefer not to use GitHub Pages, you can deploy your site from Cloudflare Pages—which is also a great option. (There are other alternatives as well, such as vercel.com)
 7. If you would like to give your website a custom domain, you can buy one from Aliyun, Cloudflare, or other registrars, and then configure the DNS settings either in GitHub Pages or Cloudflare Pages. Everything is possible!
