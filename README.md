@@ -1,22 +1,25 @@
+> **⚠️ WARNING:** This project is not dead! It is currently under active maintenance. New updates on speed and usability are expected soon. Stay tuned!
+
 # Personal Website Template for Scientists and Researchers
 
-What you can do in here:
- 1. Use yml to edit and upload your resent publications and events
- 2. Use md to write and post your logbooks and blogs
- 3. Use md to write some stuff about you
- 4. You can either write hmtl pages or just md for new projects you have achomblished and want to share !
+**What you can do with this template:**
+1. Use JSON files to edit and upload your recent publications and events. (We will change to YAML Soon)
+2. Use Markdown to write and publish your logbooks and blog posts.
+3. Use Markdown to write an "About Me" page.
+4. Write either custom HTML pages or Markdown files for new projects you have accomplished and wish to share.
 
-This project aims to provide an easy to use, scalable, well-structured personal website for sicentists and researchers to showcase their acomblishments and talk about their ideas.
+This project aims to provide an easy‑to‑use, scalable, and well‑structured personal website for scientists and researchers to showcase their accomplishments and share their ideas. It is highly customizable and under constant maintenance.
 
-It is also highely customizable personal website and under constrant maintanance.
+To use this website, you only need to follow these steps:
 
-To use this website, you only have to do the followings:
- 1. Fork this project into your own github pages
- 2. I suggest you call this new respotriory '<your_gitgub_username>.github.io' for reasons to be disscussed in Step 5.
- 3. In there, you can clone your forked respotirary to your local machinese and use some advanced IDEs like vscode to edit and view your edits in real time
- 4. After finishing, you can:
-    - Push directly to the main brach
-    - Or you can create a new bracnh and upload to it first. Then you will have to merge them togther. I remmomed this option to keep track of all the updates you have made
- 5. The one final step is to go to Settings page, click on Pages, Choise Configure Github Pages with Jekly. If you chosen the respostrory name to be '<your_gitgub_username>.github.io', then your website will be life at '<your_gitgub_username>.github.io'. Otherwise it will life '<your_gitgub_username>.github.io/<your_resorpotery_name>'.
- 6. Optionally, if you do not like the Github pages option you can deploy your page from Cloudflare, which is also a nice option. (There are also some other options to include)
- 7. If you would like to give your website a unique weblink, you can buy a new name from Aliyun/Cloudflare or others, then confgiure it in either Github pages or Clouldflare pages. Everything is possible !
+1. **Fork this repository** into your own GitHub account.
+2. I suggest you rename this new repository to `<your_github_username>.github.io`—this ensures your site goes live at the root domain (as explained in Step 5).
+3. Clone your forked repository to your local machine and edit it using an advanced IDE like VS Code (with live preview extensions, if desired).
+4. After finishing your changes, you can:
+   - Push directly to the `main` branch, **or**
+   - Create a new branch, push your updates there, and then merge them into `main`. I recommend this option to keep a clean history of all the updates you have made.
+5. **Final deployment step:** go to your repository **Settings**, click on the **Pages** tab, and under the "Build and deployment" section, select your source branch (e.g., `main`) and the `/ (root)` folder, then click **Save**. GitHub Pages will automatically build your site using Jekyll.  
+   - If you named your repository `<your_github_username>.github.io`, your website will be live at `<your_github_username>.github.io`.  
+   - Otherwise, it will be live at `<your_github_username>.github.io/<your_repository_name>`.
+6. **(Optional)** If you prefer not to use GitHub Pages, you can deploy your site from Cloudflare Pages—which is also a great option. (There are other alternatives as well.)
+7. If you would like to give your website a custom domain, you can buy one from Aliyun, Cloudflare, or other registrars, and then configure the DNS settings either in GitHub Pages or Cloudflare Pages. Everything is possible!

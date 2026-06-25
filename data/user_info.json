@@ -1,6 +1,6 @@
 {
-    "email": "ahmedphysica@outlook.com",
-    "phone": "(+86) 15212439344",
+    "email": "your.email@example.com",
+    "phone": "+00 000 0000 0000",
     "address": "No. 242 Huangshan Road, Sanlian Street, Shushan District, Hefei City, Anhui Province, China",
     "icons": {
       "email": "https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/envelope-1024.png",
@@ -8,13 +8,10 @@
       "address": "https://cdn1.iconfinder.com/data/icons/neutro-essential/32/home-1024.png"
     },
     "social": [
-      { "name": "Github", "url": "https://github.com/ammelsayed", "icon": "../images/github-brands-solid.png" },
-      { "name": "ORCID", "url": "https://orcid.org/0000-0002-4955-4958", "icon": "../images/orcid-brands-solid.png" },
-      { "name": "Google Scholar", "url": "https://scholar.google.com/citations?user=Xo0hJpMAAAAJ&hl=en", "icon": "../images/google-scholar-brands-solid.png" },
-      { "name": "ResearchGate", "url": "https://www.researchgate.net/profile/Amm-Elsayed", "icon": "../images/researchgate-brands-solid.png" },
-      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/a-m-m-elsayed/", "icon": "../images/square-linkedin-brands-solid.png" }
-
-
+      { "name": "GitHub", "url": "https://github.com/yourusername", "icon": "../images/github-brands-solid.png" },
+      { "name": "ORCID", "url": "https://orcid.org/your-orcid", "icon": "../images/orcid-brands-solid.png" },
+      { "name": "Google Scholar", "url": "https://scholar.google.com/citations?user=yourid", "icon": "../images/google-scholar-brands-solid.png" },
+      { "name": "ResearchGate", "url": "https://www.researchgate.net/profile/yourprofile", "icon": "../images/researchgate-brands-solid.png" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/yourprofile", "icon": "../images/square-linkedin-brands-solid.png" }
     ]
-  }
-  
+}

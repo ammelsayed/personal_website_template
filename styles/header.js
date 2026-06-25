@@ -31,7 +31,7 @@ class MyHeader extends HTMLElement {
             <li><a href="/about/index.html" id="about">About</a></li>
             <li><a href="/publications/index.html" id="publications">Publications</a></li>
             <li><a href="/projects/index.html" id="projects">Projects</a></li>
-            <li><a href="/blog/index.html" id="blog">Blog</a></li>
+            <!--<li><a href="/blog/index.html" id="blog">Blog</a></li>-->
             <li><a href="/events/index.html" id="events">Events</a></li>
             <li><a href="/docs/CV.pdf" target="_blank" id="cv_download">My CV</a></li>
             <!-- <li><a href="${loginHref}" id="login">${loginText}</a></li> -->
@@ -44,7 +44,7 @@ class MyHeader extends HTMLElement {
                 <div class="logo-container">
                     <a href="/index.html">
                         <img src="/images/tap-icon.png" alt="Logo">
-                        <h1>&Lambda;MM<span>Elsayed</span></h1>
+                        <h1>Your<span> Name</span></h1>
                     </a>
                 </div>
 
