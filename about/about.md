@@ -1,29 +1,67 @@
-Ahmed M. M. Elsayed is a particle physicist specializing in neutrino physics, with a particular emphasis on the phenomenology of the Type III seesaw mechanism. He is currently pursuing his master’s research at the University of Science and Technology of China under the supervision of Professor Wu Yusheng. His work focuses on studying the collider signatures of heavy fermionic triplets predicted by Type III seesaw models, with the goal of identifying viable experimental signals that could be observed at the Large Hadron Collider (LHC) and at future high-energy facilities. By combining event generation, detector-level simulations, and phenomenological modeling, his research aims to bridge theoretical proposals with realistic experimental conditions, contributing to the global effort to uncover the origin of neutrino masses.
+I am a researcher with a strong interest in computational physics and data-driven discovery. My current work focuses on developing simulation frameworks and analytical tools to study fundamental interactions at the subatomic level. I combine theoretical modelling with high‑performance computing to bridge the gap between abstract models and experimental observables, with the ultimate goal of contributing to our understanding of nature’s most basic building blocks.
 
-In addition to his physics research, Elsayed has cultivated expertise in software engineering and computational methods. He has extensive experience in desktop graphical user interface (GUI) development, backend infrastructure, and full-stack web development. These skills complement his scientific work by enabling the design of efficient tools for data handling, simulation workflows, and collaborative analysis, thereby enhancing productivity and accessibility in high-energy physics research environments.
+Beyond my core research, I have cultivated practical skills in software engineering and scientific computing. I am proficient in Python, C++, and shell scripting, and I regularly use modern version‑control and containerisation tools to manage complex workflows. These competencies not only accelerate my own research but also enable me to collaborate effectively across disciplines, from detector design to data analysis pipelines.
 
-**Research Interests:**
-- Collider phenomenology of neutrino mass models, particularly the Type III seesaw
-- Monte Carlo event generation and detector simulations for beyond-the-Standard-Model physics
-- Experimental strategies for probing heavy fermionic triplets at the LHC and future colliders
-- Development of computational and software tools for data analysis in particle physics
-- Application of attenuation of gamma rays
+**Research Interests (placeholder):**
+- Phenomenology of beyond‑Standard‑Model physics
+- Monte Carlo event generation and detector simulation
+- Statistical methods for high‑energy data analysis
+- Development of open‑source scientific software
+- Application of machine learning to particle identification
 
 **Disciplines:**
-Accelerator Physics - Nuclear and Particle Physics - Experimental Physics - Monte Carlo Simulations - Data Analysis - Software Engineering - Computational Physics - Scientific Research
+Computational Physics – Particle Physics – Data Analysis – Simulation Science – Software Engineering – Scientific Computing
 
 **Languages:**
-Elsayed is native in Arabic, English, Chinese, with a working knowledge of Russian. His diverse language skills complement his international research collaborations and enhance his ability to engage with global scientific communities.
+Fluent in English, proficient in the local language of your institution, with basic working knowledge of a third language as needed.
 
 ---
 
-# Education
+## Education
 
-- **Sep 2023 - Present**
-  **Master of Science in Nuclear and Particle Physics**
-  [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei, China
+- **Sep 2024 – Present**  
+  **M.Sc. in Physics**  
+  [University of Placeholder](https://example.edu)  
+  Thesis: *Simulation‑based studies of exotic signatures at future colliders* (tentative)
 
-- **Sep 2019 - July 2023**
-  **Bachelor of Science in Applied Physics**
-  [Sichuan University of Science and Engineering](https://www.suse.edu.cn/), Yibin, China
+- **Sep 2019 – Jun 2023**  
+  **B.Sc. in Physics**  
+  [Placeholder Institute of Technology](https://example.edu)  
+  Graduated with honors; thesis on *Monte Carlo methods for radiation transport*
 
+---
+
+## Work Experience
+
+- **Jun 2025 – Present**  
+  **Research Assistant** – Placeholder Lab for High‑Energy Physics  
+  Responsibilities include: maintaining simulation software, performing data analysis for ongoing experiments, and mentoring undergraduate interns.
+
+- **Sep 2023 – May 2024**  
+  **Teaching Assistant** – Department of Physics, University of Placeholder  
+  Led tutorial sessions for introductory mechanics and electromagnetism; graded assignments and held office hours.
+
+- **Summer 2022**  
+  **Software Developer Intern** – Placeholder Tech Inc.  
+  Built a data‑visualisation dashboard for experimental readout; implemented backend APIs and automated testing.
+
+---
+
+## Contact References
+
+**Academic Supervisor:**  
+Prof. Jane Doe – [jane.doe@university.edu](mailto:jane.doe@university.edu)  
+[University of Placeholder](https://example.edu)
+
+**Collaborator:**  
+Dr. John Smith – [john.smith@institute.org](mailto:john.smith@institute.org)  
+[Placeholder National Laboratory](https://example.org)
+
+**Professional Reference:**  
+Ms. Emily Wang – [emily.wang@company.com](mailto:emily.wang@company.com)  
+[Placeholder Tech Inc.](https://example.com)
+
+**Email:** your.email@domain.com  
+**Phone:** +00 000 0000 0000  
+**GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
