@@ -44,7 +44,7 @@ class MyHeader extends HTMLElement {
                 <div class="logo-container">
                     <a href="/index.html">
                         <img src="/images/tap-icon.png" alt="Logo">
-                        <h1>&Lambda;MM<span>Elsayed</span></h1>
+                        <h1>Your <span>Name</span></h1>
                     </a>
                 </div>
 
