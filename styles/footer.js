@@ -5,12 +5,15 @@ class MyFooter extends HTMLElement {
             <footer>
                 <div class="inner-footer">
                     <div class="footer-info">
-                        <p><b>&copy; ${currentYear} Your Name. All rights reserved. </b></p>
-                        <p> 
-                 
+                        <p><b> ${currentYear} | A.M.M. Elsayed</b></p>
+                        <p>
+                          <i class="fa-brands fa-creative-commons"></i>
+                          <i class="fa-brands fa-creative-commons-by"></i> 
+                          Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" style="color: inherit; text-decoration: none;">CC BY 4.0 International license</a>. 
+                        </p>
+                        <p>
                            Icons by <a href="https://fontawesome.com/" target="_blank" style="color: inherit; text-decoration: none;">Font Awesome</a>.
                         </p>
-                        <p>Template from <a href="https://github.com/ammelsayed/personal_website_template" target="_blank" style="color: inherit; text-decoration: none;">A.M.M. Elsayed</a>.</p>
                     </div>
 
                     <div class="social-links"></div>
