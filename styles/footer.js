@@ -10,6 +10,7 @@ class MyFooter extends HTMLElement {
                  
                            Icons by <a href="https://fontawesome.com/" target="_blank" style="color: inherit; text-decoration: none;">Font Awesome</a>.
                         </p>
+                        <p>Template from <a href="https://github.com/ammelsayed/personal_website_template" target="_blank" style="color: inherit; text-decoration: none;">A.M.M. Elsayed</a>.</p>
                     </div>
 
                     <div class="social-links"></div>
